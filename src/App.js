@@ -1,7 +1,7 @@
 function App() {
   return (
-    <div>
-      <h1>Hello from the app component</h1>
+    <div className="container">
+      <h1>My App</h1>
     </div>
   );
 }
