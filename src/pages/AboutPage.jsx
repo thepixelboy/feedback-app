@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import Card from "../components/shared/Card";
 
 function AboutPage() {
@@ -8,7 +9,7 @@ function AboutPage() {
         <p>This is a React app lo leave feedback for a product or service.</p>
         <p>Version: 1.0.0</p>
         <p>
-          <a href="/">Go back to Home</a>
+          <Link to="/">Go back to Home</Link>
         </p>
       </div>
     </Card>
