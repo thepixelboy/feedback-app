@@ -29,6 +29,11 @@
       "text": "This is a test",
       "rating": 5,
       "id": 6
+    },
+    {
+      "text": "This is an updated item",
+      "rating": 8,
+      "id": 7
     }
   ]
 }
