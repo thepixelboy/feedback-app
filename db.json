@@ -24,6 +24,11 @@
       "rating": 4,
       "text": "Yet another feedback item from postman",
       "id": 5
+    },
+    {
+      "text": "This is a test",
+      "rating": 5,
+      "id": 6
     }
   ]
 }
